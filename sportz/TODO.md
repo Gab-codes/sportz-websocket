@@ -1,2 +1,0 @@
-- [x] Create src/index.js with Express server setup: import express, create app, use JSON middleware, add root GET route returning a short message, listen on port 8000, and log the URL on start.
-- [x] Update package.json to add a "start" script for running the server.
